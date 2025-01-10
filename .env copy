@@ -1,0 +1,14 @@
+# Configurações do banco de dados MySQL
+DB_HOST=seu_host
+DB_USER=seu_usuario
+DB_PASSWORD=sua_senha
+DB_NAME=seu_banco
+
+# Configurações de e-mail
+SMTP_SERVER=smtp.example.com
+SMTP_PORT=587
+SMTP_USER=seu_email@example.com
+SMTP_PASSWORD=sua_senha
+
+# E-mail do gerente
+GERENTE_EMAIL=gerente_loja@example.com
